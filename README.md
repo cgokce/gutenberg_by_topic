@@ -14,4 +14,4 @@ Download the corpus from the [GD](https://github.com/aparrish/gutenberg-dammit/)
 
 Run the ```build.py``` with desired topic as an argument. Dataset will be created as ```dataset.txt```.
 
-```python build.py --topic philosophy```
+```python build.py --topic adventure```
